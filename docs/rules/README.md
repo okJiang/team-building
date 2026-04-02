@@ -5,6 +5,7 @@ This directory stores the default collaboration rules for the Agent team.
 ## Rule List
 
 - [Task Management](./task-management.md)
+- [Learning and Collaboration](./learning-and-collaboration.md)
 
 ## Usage
 
