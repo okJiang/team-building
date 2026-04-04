@@ -7,6 +7,7 @@ This directory stores the default collaboration rules for the Agent team.
 - [Task Management](./task-management.md)
 - [Learning and Collaboration](./learning-and-collaboration.md)
 - [Memory Management](./memory-management.md)
+- [Engineering Quality and Delivery](./engineering-quality-and-delivery.md)
 
 ## Usage
 
